@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whee_login", "Whee_login\Whee_login.csproj", "{69686BE1-5055-4419-A70D-A2228069835B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69686BE1-5055-4419-A70D-A2228069835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69686BE1-5055-4419-A70D-A2228069835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69686BE1-5055-4419-A70D-A2228069835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69686BE1-5055-4419-A70D-A2228069835B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B455C1CC-7891-4C8F-9FB1-AF8400236DEA}
+	EndGlobalSection
+EndGlobal
